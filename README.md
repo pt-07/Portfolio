@@ -1,11 +1,11 @@
 # Portfolio
 Hello, this is my portfolio of projects, which I have grouped into backend and data engineering projects. For more information or the code for each project, please click on its attachted link<br />
 
-# Data Engineering 
+# Apache Kafka & Spark Projects 
 Spark Project - https://github.com/pt-07/SparkProject<br />
 Kafka Project - https://github.com/pt-07/KafkaProject<br />
 
-# Backend/Networking
+# Operating Systems Projects
 Custom Shell - https://github.com/pt-07/CustomShell <br />
 Distributed File Transfer - https://github.com/pt-07/UDPProject <br />
 File Encryption in xv6 OS - https://github.com/pt-07/xv6FileEncryption <br />
