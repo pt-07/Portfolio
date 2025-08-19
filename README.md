@@ -1,5 +1,9 @@
 # Portfolio
-Hello, this is my portfolio of projects, which I have grouped into backend and data engineering projects. <br />
+Hello, this is my portfolio of projects, which I have grouped into backend and data engineering projects. For more information or the code for each project, please click on its attachted link<br />
+
+# Data Engineering 
+Spark Project - https://github.com/pt-07/SparkProject<br />
+Kafka Project - https://github.com/pt-07/KafkaProject<br />
 
 # Backend/Networking
 Custom Shell - https://github.com/pt-07/CustomShell <br />
@@ -8,9 +12,5 @@ File Encryption in xv6 OS - https://github.com/pt-07/xv6FileEncryption <br />
 Word Counter - https://github.com/pt-07/WordCount<br />
 Concurrent Hashmap - https://github.com/pt-07/ConcurrentHashMap <br />
 File System in User Space - https://github.com/pt-07/FUSE<br />
-
-# Data Engineering 
-Spark Project - https://github.com/pt-07/SparkProject<br />
-Kafka Project - https://github.com/pt-07/KafkaProject<br />
 
 
